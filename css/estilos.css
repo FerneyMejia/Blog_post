@@ -1,4 +1,10 @@
 body{
-  text-align: center;
+  text-align: right;
   font-family: arial;
+  background: red;
+  font-size: 50px;
+}
+
+p{
+  text-decoration: underline;
 }

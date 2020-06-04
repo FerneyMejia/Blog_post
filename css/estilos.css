@@ -1,10 +1,17 @@
+.container{
+  width: 70%;
+  height: auto;
+  border: 1px solid black;
+  text-align: center;
+  margin: auto;
+}
 body{
   text-align: right;
   font-family: arial;
-  background: red;
   font-size: 50px;
 }
 
 p{
   text-decoration: underline;
+  font-size: 20px;
 }

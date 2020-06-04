@@ -1,3 +1,11 @@
+.cabecera{
+  background-color: green;
+  color: white;
+  text-align: center;
+  height: auto;
+  padding: 20px 0;
+  justify-content: center;
+}
 .container{
   width: 70%;
   height: auto;
